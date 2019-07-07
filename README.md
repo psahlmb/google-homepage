@@ -1,1 +1,2 @@
 This is my first HTML project.  I will be trying to build the google homepage and even maybe the google search results page.  Not sure. 
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
